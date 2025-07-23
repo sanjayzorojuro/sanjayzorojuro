@@ -1,5 +1,4 @@
 Hi 👋, I'm Sanjay
-A passionate 3rd‑year BCA student learning Python, AI & ML
 
 -I’m currently studying Bachelor of Computer Applications (BCA), 3rd year.
 
