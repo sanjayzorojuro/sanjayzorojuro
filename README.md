@@ -2,7 +2,7 @@ Hi 👋, I'm Sanjay
 
 -I’m currently studying Bachelor of Computer Applications (BCA), 3rd year.
 
--I’m learning Python and exploring libraries like NumPy, Pandas,tenserflow using jupiter nootbook.
+-I’m learning Python and exploring libraries like NumPy, Pandas,tenserflow using jupiter nootbook,also learning Linux.
 
 -I’m Intrested in learning AI/ML.
 
