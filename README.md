@@ -1,6 +1,6 @@
 Hi I'm Sanjay
 
--A Final year Student.
+-A Final year BCA Student.
 
 -Currently learning Python and Javascript.
 
