@@ -1,9 +1,9 @@
-Hi 👋, I'm Sanjay
+Hi I'm Sanjay
 
--I’m currently studying Bachelor of Computer Applications (BCA), 3rd year.
+-A Final year Student.
 
--I’m learning Python and exploring libraries like NumPy, Pandas,tenserflow using jupiter nootbook,also learning Linux.
+-Currently learning Python and Javascript.
 
--I’m Intrested in learning AI/ML.
+-Intrested in learning AI/ML.
 
--Reach me out @sanjayraops17@gmail.com for Learning and Collaboration.
+-Reach me out @sanjayraops17@gmail.com for Collaboration.
