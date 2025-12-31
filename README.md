@@ -4,6 +4,6 @@ Hi I'm Sanjay
 
 -Currently learning Python and Javascript.
 
--Intrested in learning AI/ML.
+-Intrested in learning AI.
 
 -Reach me out @sanjayraops17@gmail.com for Collaboration.
