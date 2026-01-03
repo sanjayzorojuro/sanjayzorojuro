@@ -45,10 +45,12 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourname">
+  <a href="https://www.linkedin.com/in/
+sanjay-rao-87926b356
+">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="sanjayraops17@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
