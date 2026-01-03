@@ -6,15 +6,16 @@
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,postman" />
 </p>
 
 ---
-## 📊 GitHub Activity
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayzorojuro&theme=github" />
+  <img src="https://metrics.lecoq.io/sanjayzorojuro" />
 </p>
+
 
 ---
 
