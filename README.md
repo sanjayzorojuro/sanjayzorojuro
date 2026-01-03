@@ -10,11 +10,6 @@
 </p>
 
 ---
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/sanjayzorojuro" />
-</p>
 
 
 ---
