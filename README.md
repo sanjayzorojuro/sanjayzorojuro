@@ -10,29 +10,15 @@
 </p>
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjayzorojuro&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayzorojuro&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&layout=compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayzorojuro&theme=github" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayzorojuro&no-frame=true" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -50,9 +36,7 @@ sanjay-rao-87926b356
 ">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="sanjayraops17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
 </p>
 
 ---
