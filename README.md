@@ -18,7 +18,6 @@ Hi 👋, I'm Sanjay<br>Final Year BCA Student | Full Stack Learner | AI Enthusia
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanjayzorojuro&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
----
 <img src="https://komarev.com/ghpvc/?username=sanjayzorojuro&style=flat-square" />
 
 
