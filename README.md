@@ -35,6 +35,14 @@
 </p>
 
 ---
+## 📈 Activity Graph
+![Sanjay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjayzorojuro&theme=react-dark&hide_border=true)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjayzorojuro&label=Profile%20Views&color=0e75b6&style=flat" alt="sanjayzorojuro" />
+</p>
 
 ## 🤝 Connect With Me
 
