@@ -9,16 +9,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,postman" />
 </p>
 
----
-
-## 📊 Analytics
-![Sanjay's Stats](https://github-readme-stats.vercel.app/api?username=sanjayzorojuro&show_icons=true)
-
----
-
-## 🛠️ Language Breakdown
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&layout=compact)
 
 ---
 
