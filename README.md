@@ -19,6 +19,13 @@
 
 ---
 
+## 🛠️ Language Breakdown
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+---
 
 
 ## 📈 Contribution Graph
