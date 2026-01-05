@@ -13,8 +13,7 @@ Hi 👋, I'm Sanjay<br>Final Year BCA Student | Full Stack Learner | AI Enthusia
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧠 Top Languages (Ranked)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&layout=compact&theme=synthwave&hide_border=false&exclude_repo=github-readme-stats,config-files)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanjayzorojuro&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
