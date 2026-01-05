@@ -12,8 +12,7 @@ Hi 👋, I'm Sanjay<br>Final Year BCA Student | Full Stack Learner | AI Enthusia
 ![](https://nirzak-streak-stats.vercel.app/?user=sanjayzorojuro&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧠 Top Languages (Ranked)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayzorojuro&layout=compact&theme=synthwave&hide_border=false&langs_count=10)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanjayzorojuro&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
