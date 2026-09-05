@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at **MIT Manipal** focused on building practical software, exploring AI, and developing reliable web and backend applications.
 
-I enjoy working across the stack—from designing interfaces and APIs to working with databases, automation, and AI-driven systems. Most of my learning comes through building projects, experimenting with new technologies, and solving problems that have real-world applications.
+I enjoy working across the stack from designing interfaces and APIs to working with databases, automation, and AI-driven systems. Most of my learning comes through building projects, experimenting with new technologies, and solving problems that have real-world applications.
 
 ---
 
@@ -88,7 +88,6 @@ A responsive quiz application built with Flask and the Open Trivia Database API.
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=sanjayzorojuro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanjayzorojuro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
