@@ -1,24 +1,105 @@
-# 💫 About Me:
-Student from MIT Manipal who is passionate in coding.<br>
+# Sanjay Rao
 
+**Computer Science Student · Software Developer**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/snzy_20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kornayer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayraops17) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kornayer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayraops17@gmail.com) 
+I'm a Computer Science student at **MIT Manipal** focused on building practical software, exploring AI, and developing reliable web and backend applications.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I enjoy working across the stack—from designing interfaces and APIs to working with databases, automation, and AI-driven systems. Most of my learning comes through building projects, experimenting with new technologies, and solving problems that have real-world applications.
+
+---
+
+## Focus
+
+* Software Engineering
+* AI
+* Backend Development
+* Web Applications
+* Problem Solving
+
+---
+
+## Technologies
+
+**Languages**
+Java · Python · JavaScript · PHP
+
+**Web & Backend**
+HTML · CSS · Node.js · Express.js
+
+**Databases & Data**
+MySQL · MongoDB · NumPy · Pandas
+
+**Tools & Platforms**
+Git · GitHub · Postman · Figma · Vercel · Render
+
+---
+
+## featured Project
+
+### 2DMON
+
+A handcrafted 2D adventure game developed in Java, combining exploration, puzzles, combat, and item-based progression.
+
+**Java**
+
+[View Repository →](https://github.com/sanjayzorojuro/2DMON)
+
+---
+
+### StressBud
+
+An AI chatbot designed to help students during exam periods by identifying stress patterns and providing supportive guidance.
+
+**Python · AI**
+
+[View Repository →](https://github.com/sanjayzorojuro/stressbud)
+
+---
+
+### SiteSpark
+
+A real-time construction-site safety monitoring system designed to identify PPE compliance and potentially dangerous situations using AI-based detection.
+
+**AI · Computer Vision**
+
+[View Repository →](https://github.com/sanjayzorojuro/Site-Detection)
+
+---
+
+### Kittu Weather
+
+A weather application providing real-time weather information, forecasts, maps, and alerts through a modern web interface.
+
+**JavaScript · Express.js**
+
+[View Repository →](https://github.com/sanjayzorojuro/Kittu-weather)
+
+---
+
+### JPOT
+
+A responsive quiz application built with Flask and the Open Trivia Database API.
+
+**Python · Flask · REST API**
+
+[View Repository →](https://github.com/sanjayzorojuro/JPOT)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sanjayzorojuro&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sanjayzorojuro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanjayzorojuro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanjayzorojuro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjayzorojuro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayraops17)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayraops17@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kornayer)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kornayer)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/snzy_20)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sanjayzorojuro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
