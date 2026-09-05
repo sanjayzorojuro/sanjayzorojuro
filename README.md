@@ -21,20 +21,20 @@ I enjoy working across the stack—from designing interfaces and APIs to working
 ## Technologies
 
 **Languages**
-Java · Python · JavaScript · PHP
+- Java · Python · JavaScript · PHP
 
 **Web & Backend**
-HTML · CSS · Node.js · Express.js
+- HTML · CSS · Node.js · Express.js
 
 **Databases & Data**
-MySQL · MongoDB · NumPy · Pandas
+- SQL · MongoDB · NumPy · Pandas
 
 **Tools & Platforms**
-Git · GitHub · Postman · Figma · Vercel · Render
+- Git · GitHub · Postman · Figma · Vercel · Render
 
 ---
 
-## featured Project
+## Featured Project
 
 ### 2DMON
 
@@ -87,13 +87,12 @@ A responsive quiz application built with Flask and the Open Trivia Database API.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sanjayzorojuro&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sanjayzorojuro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanjayzorojuro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-## Contact
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayraops17)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayraops17@gmail.com) 
@@ -101,5 +100,4 @@ A responsive quiz application built with Flask and the Open Trivia Database API.
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kornayer)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/snzy_20)
 
----
 
